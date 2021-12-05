@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DB1VT1](https://github.com/KeremAyseli/DB1VT1)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://keremayseli.tech](http://keremayseli.tech)
 
