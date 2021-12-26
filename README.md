@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://keremayseli.tech](http://keremayseli.tech)
+- 👨‍💻 All of my projects are available at [https://keremayseli.tech](http://keremayseli.tech)
 
 - 💬 Ask me about **C#**
 
