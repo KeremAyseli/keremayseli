@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://keremayseli.tech](http://keremayseli.tech)
+- 👨‍💻 All of my projects are available at [https://keremayseli.com](http://keremayseli.tech)
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **me@keremayseli.tech**
+- 📫 How to reach me **me@keremayseli.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
