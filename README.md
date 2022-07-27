@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://keremayseli.com](http://keremayseli.tech)
+- 👨‍💻 All of my projects are available at [https://keremayseli.com](http://keremayseli.com)
 
 - 💬 Ask me about **C#**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/keremayseli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremayseli" height="30" width="40" /></a>
 <a href="https://instagram.com/ayselikerem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayselikerem" height="30" width="40" /></a>
-<a href="/keremayseli.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="keremayseli.tech" height="30" width="40" /></a>
+<a href="/keremayseli.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="keremayseli.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
